@@ -22,4 +22,15 @@ cp .example.env .env.local
 npm install && npm run dev
 localhost:3000
 ```
+dependances
 
+```
+"dependencies": {
+    "@headlessui/react": "^1.4.2",
+    "axios": "^0.21.1",
+    "next": "^13.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swr": "^1.3.0"
+  },
+```
