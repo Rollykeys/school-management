@@ -1,2 +1,6 @@
 
 # School Management System
+
+'''
+\Frontend
+```
