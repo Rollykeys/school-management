@@ -1,0 +1,46 @@
+School System
+
+-Students Data
+1. Reg No
+2. Name
+3. Surname
+4. Gender
+5. Phone
+6. DOB
+7. Address
+8. Email
+9. Class 1:1
+
+
+-Student Personal Data
+
+-Class Data
+1. Name
+
+1. Admin
+- Add students /edit / delete password
+- Add teachers/edit/ delete password
+-User Roles
+- Analysis teachers, student
+-Report
+-Excel
+
+2. Teacher
+- list of student in that class.
+- Enter student marks
+- Assignments.
+- Attendance
+- Special Request
+- Analysis
+-Announcemence
+-Reporting PDF
+- Excel
+
+3. Student
+-Analysis
+-Announcemence
+-Special Request
+-Reporting
+-Asssignments
+-marks
+
